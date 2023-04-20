@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../widgets/appbar.dart';
-import '../custom_painter/custom_painter.dart';
-import '../custom_painter/object_properties.dart';
+import '/widgets/appbar.dart';
+import '/custom_painter/custom_painter.dart';
+import '/custom_painter/object_properties.dart';
 
 class AnimatedBarChart extends StatefulWidget {
   const AnimatedBarChart({super.key});
